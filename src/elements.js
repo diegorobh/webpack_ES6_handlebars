@@ -1,2 +1,2 @@
-export var container_1 = document.getElementById('container_1');
-export var container_2 = document.getElementById('container_2');
+export var element_1 = document.getElementById('container_1');
+export var element_2 = document.getElementById('container_2');
